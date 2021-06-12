@@ -3,11 +3,3 @@
   --primary:'Syncopate';
   --secondary:'Cormorant';
 }
-
-h2{
-  font-family: var(--primary);
-}
-
-h1{
-  font-family: var(--secondary);
-}
