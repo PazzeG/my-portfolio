@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Syncopate&display=swap');
+:root{
+  --primary:'Syncopate';
+  --secondary:'Cormorant';
+}
+
+h2{
+  font-family: var(--primary);
+}
+
+h1{
+  font-family: var(--secondary);
+}
