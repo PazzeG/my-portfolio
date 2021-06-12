@@ -6,10 +6,6 @@ function App() {
 
   return (
     <div className="App">
-    <h1>
-    Bonjour tout le monde
-    </h1>
-    <h2>BLABLA</h2>
     
     </div>
   )
