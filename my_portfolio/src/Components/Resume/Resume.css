@@ -1,0 +1,40 @@
+ .resumePage{
+    font-family: var(--primary);
+}
+
+.period{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    font-size: 64px;
+    width: fit-content;
+    height: fit-content ;
+}
+
+.activity{
+    margin-left: 53%;
+    margin-right: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    height: 700px;
+}
+
+.workFor{
+    font-size: 56px;
+}
+
+.workAs{
+    font-size:32px;
+    margin-bottom: 24px; 
+}
+
+.late{
+
+    margin-top:37%;
+    margin-left: 0;
+}
+.early{
+    width: fit-content;
+}
+
