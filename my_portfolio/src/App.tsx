@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-     <div className="mobile">come to see me in desktop</div>
+     <div className="mobile">come to see me on desktop</div>
      <div className="home"><Home /></div>  
       <div className="resume"><Resume/></div>  
      <div className="footer"><Footer/></div> 
