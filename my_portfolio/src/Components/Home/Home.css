@@ -1,5 +1,4 @@
 
-
 .presentation{
     position: absolute;
     right: 0;
@@ -71,4 +70,7 @@ a{
     font-family: var(--secondary);
     font-weight: 400;
     font-size: 64px;
+}
+a:hover{
+    color: #f75312;
 }

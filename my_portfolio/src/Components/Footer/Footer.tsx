@@ -7,15 +7,11 @@ function Footer() {
         document.documentElement.scrollTop = 0;
       }
     return (
-    <>
-        <footer className="footerPage">
-            <div className="date">G/21</div>
+        <div className="footerPage">
+            <div className="signature">G/21</div>
             <h3 onClick={topFunction} className="toTop">BACK TO TOP</h3>
-            <p className="rights">INSPIRED BY BEN MINGO <br /> ALL RIGHTS RESERVED</p>
-             
-
-        </footer>
-    </>
+            <p className="rights">INSPIRED BY <a href="http://www.benmingo.com/">BEN MINGO</a><br /> ALL RIGHTS RESERVED</p>
+        </div>
     )
 }
 
