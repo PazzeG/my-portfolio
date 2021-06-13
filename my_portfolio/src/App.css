@@ -4,10 +4,12 @@
   --secondary:'Cormorant';
 }
 
-h2{
-  font-family: var(--primary);
-}
 
-h1{
-  font-family: var(--secondary);
-}
+
+/* .homePage{grid-area: part1;}
+.reusmePage{grid-area: part2;}
+.footerPage{grid-area: part3;}
+.App{
+  grid-template-rows: repeat(3, fit-content);
+  grid-template-areas:"part1" "part2" "part3" ;
+} */
