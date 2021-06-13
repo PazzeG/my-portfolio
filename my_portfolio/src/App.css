@@ -3,3 +3,18 @@
   --primary:'Syncopate';
   --secondary:'Cormorant';
 }
+.mobile{
+  display: none;
+}
+
+@media screen and (max-width:1275px){
+  .mobile{
+    display: block;
+    font-size: 56px;
+    font-family: var(--primary);
+    margin-top: 55%;
+  }
+  .home{display:none}
+  .resume{display:none}
+  .footer{display:none}
+}
