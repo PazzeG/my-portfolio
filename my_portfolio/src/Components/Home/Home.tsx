@@ -9,7 +9,7 @@ function Home() {
                     <h1 className="title">GUILLAUME</h1>
                 </div>
                 <div className="presentation">
-                    <p className="firstPart">GUILLAUME PAZZÉ IS A<br />ORLEANS BASED<br />CREATIVE DEVELOPPER,</p>
+                    <p className="firstPart">GUILLAUME PAZZÉ IS AN<br />ORLEANS BASED<br />CREATIVE DEVELOPPER,</p>
                     <p className="secondPart">HE EXPERIENCED<br />TEAMWORKS AND<br />AGILITY PROJECTS</p>
                     <div className="social">
                         <span><a href="mailto: guillaume.pazze@gmail.com" >EMAIL</a></span>
