@@ -15,6 +15,7 @@ function Home() {
                         <span><a href="mailto: guillaume.pazze@gmail.com" >EMAIL</a></span>
                         <span><a href="https://twitter.com/brotherwaterz" >TWITTER</a></span>
                         <span><a href="https://www.linkedin.com/in/guillaume-pazze/" >LINKEDIN</a></span>
+                        <span><a href="https://github.com/PazzeG" >GITHUB</a></span>
                     </div>
                 </div>
                 <span className="scrollInv">SCROLL FOR MORE</span>
