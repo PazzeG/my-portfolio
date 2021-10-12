@@ -14,11 +14,17 @@
     position: absolute;
     font-family: var(--primary);
     cursor: pointer;
-    font-size: 32px;
-    font-weight: 500;
+    font-size: 2em;
+    font-weight: 400;
     width: fit-content;
     margin-top: 40%;
  }
+
+ .toTop:hover{
+    color: hsl(17, 93%, 52%);;
+ }
+
+
 
  .rights{
     position: absolute;

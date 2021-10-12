@@ -10,7 +10,7 @@ function Resume() {
                 <span className="late">(2018&2019)</span>
             </div>
             <div className="activity">
-                <span className="workFor">lgperformance</span>
+                <span className="workFor"><a href="https://www.louisgrillonperformance.com">lgperformance</a></span>
                 <span className="workAs">web developper</span>
                 <span className="workFor"><a href="https://www.cieledoubledesclefs.org/les-veilleurs/">les veilleurs</a></span>
                 <span className="workAs">sound operator</span>
