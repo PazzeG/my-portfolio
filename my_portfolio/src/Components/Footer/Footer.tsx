@@ -2,6 +2,7 @@ import React from 'react'
 import './Footer.css'
 
 function Footer() {
+
     function topFunction() {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;

@@ -7,7 +7,7 @@
   display: none;
 }
 
-/* @media screen and (max-width:1275px){
+ @media screen and (max-width:1275px){
   .mobile{
     display: block;
     font-size: 56px;
@@ -17,4 +17,4 @@
   .home{display:none}
   .resume{display:none}
   .footer{display:none}
-} */
+}
