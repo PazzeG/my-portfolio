@@ -10,7 +10,7 @@ function Home() {
                 </div>
                 <div className="presentation">
                     <div className="misc">
-                        <p className="firstPart">GUILLAUME PAZZÉ IS AN<br />FRENCH BASED<br />FRONT END DEVELOPER</p>
+                        <p className="firstPart">GUILLAUME PAZZÉ IS A<br />FRENCH BASED<br />FRONT END DEVELOPER</p>
                         <p className="secondPart">HE EXPERIENCED<br />TEAMWORKS AND<br />AGILITY PROJECTS</p>
                     </div>
                     <div className="social">
